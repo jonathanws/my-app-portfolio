@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string-array name="project_names">
+		<item>Spotify Steamer, s1</item>
+		<item>Spotify Streamer, s2</item>
+		<item>SuperDuo</item>
+		<item>Build it Bigger</item>
+		<item>Make Your App Material</item>
+		<item>Capstone - Design</item>
+		<item>Capstone - Build</item>
+	</string-array>
+	
+	<string-array name="project_numbers">
+		<item>Project 1</item>
+		<item>Project 2</item>
+		<item>Project 3</item>
+		<item>Project 4</item>
+		<item>Project 5</item>
+		<item>Project 6</item>
+		<item>Project 7</item>
+	</string-array>
+	
+</resources>

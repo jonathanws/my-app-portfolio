@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">Project 0</string>
+	
+	<string name="action_settings">Settings</string>
+	
+	<string name="button_project1_main">Spotify Streamer</string>
+	<string name="button_project2_main">Scores App</string>
+	<string name="button_project3_main">Library App</string>
+	<string name="button_project4_main">Build it Bigger</string>
+	<string name="button_project5_main">XYZ Reader</string>
+	<string name="button_project6_main">Capstone: My Own App</string>
+</resources>

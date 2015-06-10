@@ -1,0 +1,60 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:paddingLeft="16dp"
+	android:paddingRight="16dp"
+	tools:context=".MainActivity">
+	
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="vertical"
+		android:paddingTop="16dp"
+		android:paddingBottom="8dp">
+		
+		<Button
+			android:id="@+id/project_1"
+			style="@style/MainButtons"
+			android:layout_height="96dp"
+			android:layout_width="match_parent"
+			android:text="@string/button_project1_main"/>
+		
+		<Button
+			android:id="@+id/project_2"
+			style="@style/MainButtons"
+			android:layout_height="96dp"
+			android:layout_width="match_parent"
+			android:text="@string/button_project2_main"/>
+		
+		<Button
+			android:id="@+id/project_3"
+			style="@style/MainButtons"
+			android:layout_height="96dp"
+			android:layout_width="match_parent"
+			android:text="@string/button_project3_main"/>
+		
+		<Button
+			android:id="@+id/project_4"
+			style="@style/MainButtons"
+			android:layout_height="96dp"
+			android:layout_width="match_parent"
+			android:text="@string/button_project4_main"/>
+		
+		<Button
+			android:id="@+id/project_5"
+			style="@style/MainButtons"
+			android:layout_height="96dp"
+			android:layout_width="match_parent"
+			android:text="@string/button_project5_main"/>
+		
+		<Button
+			android:id="@+id/project_6"
+			style="@style/MainButtons"
+			android:layout_height="96dp"
+			android:layout_width="match_parent"
+			android:text="@string/button_project6_main"/>
+		
+	</LinearLayout>
+
+</ScrollView>
